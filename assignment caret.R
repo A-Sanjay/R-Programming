@@ -7,7 +7,7 @@ View(orange)
 str(orange)
 
 head(orange[, 1:10])
-# Create the training and test datasets
+# Create the training and test datasets #
 set.seed(100)
 
 # Step 1: Get row numbers for the training data
